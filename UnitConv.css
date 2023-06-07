@@ -1,0 +1,52 @@
+body{
+  margin: 0px;
+  padding: 0px;
+  background-color: lightpink;
+
+}
+.image{
+   width:100px;
+   height:40px;
+}
+.converter-body,.converter2-body{
+  width: 400px;
+  height:150px;
+  background-color: lightgreen;
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  box-shadow: 2.5px 10px lightseagreen;
+}
+.converter2-body{
+  margin-top:100px;
+  position:relative;
+}
+.converter-title,.converter2-title{
+   text-align: center;
+   margin: 13px 0px;
+   color: magenta;
+}
+input{
+  height: 25px;
+}
+#inputType,#resultType{
+  width: 166.66px;
+  margin-left: 3px;
+  color: royalblue;
+}
+#resultType{
+  margin-left: 25.5px;
+} 
+
+input1{
+  height: 25px;
+}
+#inputType1,#resultType1{
+  width: 166.66px;
+  margin-left: 3px;
+  color: royalblue;
+}
+#resultType1{
+  margin-left: 25.5px;
+} 
